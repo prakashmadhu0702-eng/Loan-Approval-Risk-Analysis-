@@ -13,6 +13,12 @@ This project analyzes loan approval patterns and risk factors using SQL and Powe
 - Loan Amount
 - Credit Score
 - Loan Status
+
+  ## Dashboard Preview
+
+![Dashboard](Dashboard1.png)
+
+![Dashboard](Dashboard2.png)
 - Employment Type
 
 ## Key KPIs
